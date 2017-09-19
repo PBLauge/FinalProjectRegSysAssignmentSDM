@@ -1,0 +1,6 @@
+C:\Users\Peder\Documents\Visual Studio 2017\Projects\ProjectRegistrationAssignment\ProjectRegistration\bin\Debug\netcoreapp2.0\ProjectRegistration.deps.json
+C:\Users\Peder\Documents\Visual Studio 2017\Projects\ProjectRegistrationAssignment\ProjectRegistration\bin\Debug\netcoreapp2.0\ProjectRegistration.dll
+C:\Users\Peder\Documents\Visual Studio 2017\Projects\ProjectRegistrationAssignment\ProjectRegistration\obj\Debug\netcoreapp2.0\ProjectRegistration.csprojResolveAssemblyReference.cache
+C:\Users\Peder\Documents\Visual Studio 2017\Projects\ProjectRegistrationAssignment\ProjectRegistration\obj\Debug\netcoreapp2.0\ProjectRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Peder\Documents\Visual Studio 2017\Projects\ProjectRegistrationAssignment\ProjectRegistration\obj\Debug\netcoreapp2.0\ProjectRegistration.AssemblyInfoInputs.cache
+C:\Users\Peder\Documents\Visual Studio 2017\Projects\ProjectRegistrationAssignment\ProjectRegistration\obj\Debug\netcoreapp2.0\ProjectRegistration.AssemblyInfo.cs
